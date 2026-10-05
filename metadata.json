@@ -1,0 +1,6 @@
+{
+  "name": "Eleven Plus Tutors in Manchester",
+  "description": "Premium 11+ entrance exam tutoring in Manchester. Personalised Maths, English, Verbal Reasoning, and mock exam preparation in Swan Buildings, M4 5JW.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
